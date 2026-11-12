@@ -1,0 +1,7 @@
+# Le programme est distribue dans les Releases GitHub (zip), plus dans le depot
+Photo Labo.exe
+_internal/
+platform-tools*/
+scrcpy*/
+*.zip
+.codegraph/
