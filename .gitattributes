@@ -1,7 +1,0 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-# Programme compile : jamais de conversion de fin de ligne
-*.exe binary
-*.dll binary
-*.pyd binary
-*.so binary
